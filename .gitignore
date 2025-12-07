@@ -1,1 +1,21 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE folders
+.vscode/
+.idea/
+
+# Temp/backups
+*.tmp
+*.bak
+*.swp
+*~
+
+# Logs
+*.log
+
+# Optional: ignore exported builds
+dist/
+build/
 
