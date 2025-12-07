@@ -22,6 +22,12 @@ Always confirm details with your local traffic authority before applying.
 - Anyone upgrading from a smaller licence code
 - Students building a knowledge base with Git/GitHub
 
+- ## Contributors
+
+- **Sizo-Sithole**
+- **Lwandisile Mhlanga** — GitHub: **@mhlangalwandisile25-sys**
+
+
 ---
 
 ## Project structure
